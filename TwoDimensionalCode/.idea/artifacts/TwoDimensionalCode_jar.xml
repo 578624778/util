@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="TwoDimensionalCode:jar">
+    <output-path>$PROJECT_DIR$/../TwoDimensionalCode/out/artifacts/TwoDimensionalCode_jar</output-path>
+    <root id="archive" name="TwoDimensionalCode.jar">
+      <element id="module-output" name="TwoDimensionalCode" />
+      <element id="extracted-dir" path="E:/jar/core.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/jar/code.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
